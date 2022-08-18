@@ -1,4 +1,4 @@
-# Voting-System
+# Voting-Application for a closed system
 Secure Voting System with Vote Sanctity Check
 
 - User can vote and verify if votes were tampered or not
